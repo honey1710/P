@@ -1,0 +1,163 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - region "Notifications (F8)":
+    - list
+  - region "Notifications alt+T"
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e6]:
+        - link "RAHUL SHETTY" [ref=e8] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e9]:
+          - link "Home" [ref=e10] [cursor=pointer]:
+            - /url: /
+            - img [ref=e11]
+            - text: Home
+          - link "All-Access" [ref=e14] [cursor=pointer]:
+            - /url: /all-access-subscription
+            - img [ref=e15]
+            - text: All-Access
+          - link "Learning Paths" [ref=e17] [cursor=pointer]:
+            - /url: /learning-paths
+            - img [ref=e18]
+            - text: Learning Paths
+          - link "Mentorship" [ref=e20] [cursor=pointer]:
+            - /url: /mentorship
+            - img [ref=e21]
+            - text: Mentorship
+          - link "AI Learning Path NEW" [ref=e26] [cursor=pointer]:
+            - /url: /ai-learning-path
+            - img [ref=e27]
+            - text: AI Learning Path
+            - generic [ref=e37]: NEW
+          - link "Practice" [ref=e38] [cursor=pointer]:
+            - /url: /practice
+            - img [ref=e39]
+            - text: Practice
+          - link "Meet ups" [ref=e43] [cursor=pointer]:
+            - /url: https://qasummit.org
+            - img [ref=e44]
+            - text: Meet ups
+          - button "Contact Us" [ref=e46] [cursor=pointer]:
+            - img [ref=e47]
+            - text: Contact Us
+            - img [ref=e50]
+        - generic [ref=e52]:
+          - link "Sign Up" [ref=e53] [cursor=pointer]:
+            - /url: https://courses.rahulshettyacademy.com/sign_up
+          - link "Browse Courses" [ref=e54] [cursor=pointer]:
+            - /url: https://courses.rahulshettyacademy.com/courses
+    - generic [ref=e57]:
+      - generic [ref=e58]:
+        - heading "404" [level=1] [ref=e59]
+        - generic [ref=e61]: Oops!
+      - generic [ref=e62]:
+        - heading "Page Not Found" [level=2] [ref=e63]
+        - paragraph [ref=e64]: The page you're looking for doesn't exist or has been moved. Don't worry, let's get you back on track!
+        - paragraph [ref=e66]:
+          - text: "Attempted to access:"
+          - code [ref=e67]: /Client
+      - generic [ref=e68]:
+        - link "Go Home" [ref=e69] [cursor=pointer]:
+          - /url: /
+          - img
+          - text: Go Home
+        - link "Browse Courses" [ref=e70] [cursor=pointer]:
+          - /url: /learning-paths
+          - img
+          - text: Browse Courses
+        - button "Go Back" [ref=e71] [cursor=pointer]:
+          - img
+          - text: Go Back
+      - generic [ref=e72]:
+        - heading "Popular Pages" [level=3] [ref=e73]
+        - generic [ref=e74]:
+          - link "All-Access Membership" [ref=e75] [cursor=pointer]:
+            - /url: /all-access-subscription
+          - link "AI Learning Path" [ref=e76] [cursor=pointer]:
+            - /url: /ai-learning-path
+          - link "Mentorship" [ref=e77] [cursor=pointer]:
+            - /url: /mentorship
+          - link "Practice Apps" [ref=e78] [cursor=pointer]:
+            - /url: /practice
+          - link "Contact Us" [ref=e79] [cursor=pointer]:
+            - /url: /contact-us
+    - contentinfo [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - generic [ref=e83]:
+            - generic [ref=e84]:
+              - heading "RAHUL SHETTY" [level=3] [ref=e85]
+              - paragraph [ref=e86]: Transforming careers through comprehensive QA testing education. Join 1M+ learners worldwide.
+            - generic [ref=e87]:
+              - heading "Connect us on Socials" [level=4] [ref=e88]
+              - generic [ref=e89]:
+                - link [ref=e90] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCgx5SDcUQWCQ_1CNneQzCRw
+                  - img [ref=e91]
+                - link [ref=e94] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/rahul-shetty-venkatesh/
+                  - img [ref=e95]
+                - link [ref=e99] [cursor=pointer]:
+                  - /url: https://www.instagram.com/rahulshettyofficial_venkat/
+                  - img [ref=e100]
+          - generic [ref=e103]:
+            - heading "Navigation" [level=4] [ref=e104]
+            - generic [ref=e105]:
+              - link "All-Access" [ref=e106] [cursor=pointer]:
+                - /url: /all-access-subscription
+              - link "Learning Paths" [ref=e107] [cursor=pointer]:
+                - /url: /learning-paths
+              - link "Mentorship" [ref=e108] [cursor=pointer]:
+                - /url: /mentorship
+              - link "AI Learning PathNEW" [ref=e109] [cursor=pointer]:
+                - /url: /ai-learning-path
+              - link "Practice" [ref=e110] [cursor=pointer]:
+                - /url: /practice
+              - link "Meet ups" [ref=e111] [cursor=pointer]:
+                - /url: https://qasummit.org
+              - link "Blog" [ref=e112] [cursor=pointer]:
+                - /url: https://rahulshettyacademy.com/blog/
+          - generic [ref=e113]:
+            - heading "Popular Courses" [level=4] [ref=e114]
+            - generic [ref=e115]:
+              - link "Selenium WebDriver" [ref=e116] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/selenium-webdriver-interview-questions-tutorial-1
+              - link "Playwright Testing" [ref=e117] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/playwright-js-ts-automation-testing-from-scratch-framework
+              - link "API Testing" [ref=e118] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/rest-api-automation-rest-assured-java
+              - link "AI Agents" [ref=e119] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-agentic-ai-build-multi-agent-automation-workflow
+              - link "AI Testing Tools" [ref=e120] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/p/learn-generativen-ai-in-software-testing
+              - link "Browse All Courses" [ref=e121] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/courses
+          - generic [ref=e122]:
+            - heading "Support" [level=4] [ref=e123]
+            - generic [ref=e124]:
+              - link "Student Login" [ref=e125] [cursor=pointer]:
+                - /url: https://courses.rahulshettyacademy.com/sign_in
+              - link "Contact Us" [ref=e126] [cursor=pointer]:
+                - /url: /contact-us
+              - link "Help Center" [ref=e127] [cursor=pointer]:
+                - /url: "#"
+              - link "Community" [ref=e128] [cursor=pointer]:
+                - /url: "#"
+              - link "Terms of Service" [ref=e129] [cursor=pointer]:
+                - /url: "#"
+              - link "Privacy Policy" [ref=e130] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - paragraph [ref=e134]: © 2025 Rahul Shetty Academy. All rights reserved.
+            - generic [ref=e135]: •
+            - generic [ref=e137]: Built with ♥ for testers worldwide.
+          - generic [ref=e138]:
+            - generic [ref=e139]: contact@rahulshettyacademy.com
+            - generic [ref=e140]:
+              - img [ref=e141]
+              - generic [ref=e144]: Trusted by 1M+ QA Engineers
+```

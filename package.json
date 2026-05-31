@@ -1,0 +1,29 @@
+{
+  "name": "exceljs",
+  "version": "1.0.0",
+  "description": "excel js",
+  "main": "index.js",
+  "scripts": {
+    "chromeHeadless": "npx playwright test --config playwright.config.js projects=chrome",
+    "SmokeTest": "npx playwright test --grep @Smoke",
+    "Regression": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "himani",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.5.2",
+    "allure-playwright": "^3.4.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "playwright": "^1.55.1",
+    "playwright-core": "^1.55.1",
+    "undici-types": "^7.12.0",
+    "xlsx": "^0.18.5"
+  }
+}

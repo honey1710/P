@@ -1,0 +1,3 @@
+total items 3
+product added[object Promise]
+ | 692826dd5008f6a9093dc242 | 
