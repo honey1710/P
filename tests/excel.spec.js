@@ -3,6 +3,7 @@ import * as XLSX from 'xlsx';
 import  fs from 'fs';
 import { isGeneratorFunction, isStringObject } from 'util/types';
 
+// Read Excel file and convert to JSON
 const excelFilePath = 'TestData\\loginExcel.xlsx';
 const fileBuffer = fs.readFileSync(excelFilePath);
 const workbook = XLSX.read(fileBuffer, { type: 'buffer' });
