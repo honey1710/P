@@ -1,0 +1,1151 @@
+Okay, so Himani, let's get to the point then. Okay, so I don't want to hide anything during this holiday because we both are Capgemini, right? So just tell me, like, in case if you get the opportunity to working on the project, maybe the new project, that you need to start from scratch with.
+questions 2 minutes 34 seconds
+Play right, and also you need to have a, you know, team to handle to work on this, you know, setting up this play right from scratch and, you know, implementing everything from scratch for the new project.
+CH
+answer
+2 minutes 34 seconds2:34
+answer 2 minutes 34 seconds
+Mm.
+answer 2 minutes 51 seconds
+Yeah, I don't find it. Yes, yes, I think, see, it will be learning curve for me because I am learning. I have a, I had a hands-on on one project. It's a learning curve for me, but definitely I don't find any challenge that I won't be able to do it. So I can show you, I can.
+
+Okay, so Himani, let's get to the point then. Okay, so I don't want to hide anything during this holiday because we both are Capgemini, right? So just tell me, like, in case if you get the opportunity to working on the project, maybe the new project, that you need to start from scratch with.
+questions 2 minutes 34 seconds
+Play right, and also you need to have a, you know, team to handle to work on this, you know, setting up this play right from scratch and, you know, implementing everything from scratch for the new project.
+CH
+answer
+2 minutes 34 seconds2:34
+answer 2 minutes 34 seconds
+Mm.
+answer 2 minutes 51 seconds
+Yeah, I don't find it. Yes, yes, I think, see, it will be learning curve for me because I am learning. I have a, I had a hands-on on one project. It's a learning curve for me, but definitely I don't find any challenge that I won't be able to do it. So I can show you, I can.
+
+questions
+2 minutes 51 seconds2:51
+questions 2 minutes 51 seconds
+How feasible it is for you.
+questions 3 minutes 7 seconds
+How do you start? Maybe how do you start that? Just tell me like how effectively you will be able to handle this project.
+CH
+answer
+3 minutes 11 seconds3:11
+answer 3 minutes 11 seconds
+Of...
+answer 3 minutes 15 seconds
+Can you please tell me the so like it's a complex so it's a scenarios are complex or what is the tech stack we are using there?
+
+
+questions
+3 minutes 25 seconds3:25
+questions 3 minutes 25 seconds
+It is a combination of all, right? Actually, right now you have to answer me like an automation technical lead. Okay? Based on your overall experience, you know how the automation project need to run in any client project, right? So if something's like, you know, recent days, you know how it is getting...
+CH
+answer
+3 minutes 26 seconds3:26
+answer 3 minutes 26 seconds
+In your project.
+answer 3 minutes 33 seconds
+Mhm, mhm.
+answer 3 minutes 38 seconds
+Okay.
+
+questions
+3 minutes 45 seconds3:45
+questions 3 minutes 45 seconds
+And I evaluated from, you know, automation from one stage to the next stage. So, yeah, so as a lead, I'm just telling you, like, one lead requirement is like you have a new project that you are going to be only one person as automation lead, where you have to use, you know, the latest technology, including the playwright framework. So, what would be your approach? How do you start?
+CH
+answer
+3 minutes 47 seconds3:47
+answer 3 minutes 47 seconds
+I understand. AI. Yes, yes, AI is taking over, yeah.
+answer 3 minutes 54 seconds
+Mm.
+answer 3 minutes 58 seconds
+Mm.
+answer 4 minutes 1 second
+Mm.
+
+questions
+4 minutes 8 seconds4:08
+questions 4 minutes 8 seconds
+Just try to convince me that you are the right person for that, you know, automation, because there is no other support team will be available. They are going to be independent.
+
+hauhan, Himani
+4 minutes 13 seconds4:13
+answer 4 minutes 13 seconds
+Okay, so...
+answer 4 minutes 15 seconds
+Oh.
+answer 4 minutes 17 seconds
+OK, so interviewer, I if play right is there, so it means we have already chosen the this tool.
+answer 4 minutes 27 seconds
+Is tool is chosen. OK, so we have the tool, so we don't go into this depth, like what is the tool and all? It means it will be supporting our application and all. So, once we get the hands-on, we could get a fair idea of the application, then we will try to understand what is the more more requirement, like it's a UI based or the API based, because API disk cases are very easy.
+
+questions
+4 minutes 27 seconds4:27
+questions 4 minutes 27 seconds
+Mm.
+questions 4 minutes 29 seconds
+Hmm.
+questions 4 minutes 37 seconds
+Mm.
+CH
+answer
+4 minutes 51 seconds4:51
+answer 4 minutes 51 seconds
+easy to or not easy, but I would say like we get the quicker result in comparison to the UI. So we have to work if we have to work on the both the parts UI and the API. So once we get on this idea, we will just create a test plan, test a strategy, how many team members will be there, what would be the acceptance criteria, like a manual thing, like how the testing works, process of the testing and all.
+
+questions
+5 minutes 7 seconds5:07
+questions 5 minutes 7 seconds
+Mm.
+CH
+answer
+5 minutes 15 seconds5:15
+answer 5 minutes 15 seconds
+So once we are done with that, then we will come to our project and all. So just like how we create a project in the new project in playwright. Just we create a folder and all, then we create the NPM in it, we initialize the playwright thing there, install some dependencies, select our like what kind of, because playwright it supports various languages.
+answer 5 minutes 40 seconds
+languages so TypeScript in the JavaScript is the most commonly it's yeah in few few languages here JavaScript and TypeScript I am learning on the JavaScript in the TypeScript so it's support languages then we will select which type of language we are going to it decide if we are going to the
+
+
+questions
+5 minutes 42 seconds5:42
+questions 5 minutes 42 seconds
+Are you sure?
+questions 5 minutes 44 seconds
+Okay.
+questions 5 minutes 51 seconds
+Mhm.
+questions 5 minutes 58 seconds
+Okay, so Himani, yeah, yeah, I'll move on to the next thing a little deep into that. So when you say like, you know, maybe assume, I assume that you have a, you know, playwright installed and you have to start with TypeScript. Okay, so how do you develop your framework?
+CH
+answer
+5 minutes 59 seconds5:59
+answer 5 minutes 59 seconds
+Mm.
+answer 6 minutes 11 seconds
+Hmm.
+answer 6 minutes 13 seconds
+Mm.
+answer 6 minutes 20 seconds
+See, playwright gives us a good framework folder structure. It gives us a good folder structure, very good folder structure. It we have.
+
+questions
+6 minutes 22 seconds6:22
+questions 6 minutes 22 seconds
+Mm.
+questions 6 minutes 27 seconds
+OK, can you explain? Can you tell me about that folder structure?
+CH
+answer
+6 minutes 31 seconds6:31
+answer 6 minutes 31 seconds
+Yes, we have the test where we give the test folder test where our test goes there, like in test and we have to give the name and the async page and all. Then we have to write our test script there. Then we have apart from this, we can create other folders also like utils, one for util, one for the test data, this kind of thing we can create ourself, this kind of folders.
+answer 6 minutes 54 seconds
+Other than then, the very important part of the playwright is the config. We have the playwright.config.js where we can config all the options there. Like if you are going to run in parallel, what kind of report, what kind of the project is a chromium or this kind of thing, we can pass there. Yeah, and then we have the package dot.
+
+questions
+7 minutes 4 seconds7:04
+questions 7 minutes 4 seconds
+Mm.
+questions 7 minutes 11 seconds
+Baig.
+
+
+answer
+7 minutes 15 seconds7:15
+answer 7 minutes 15 seconds
+where we can give our scripts, we can give our scripts how to run, like if you want to, like if you want to run any smoke, smoke tag, all the test cases which are tagged as a smoke or regression. So we can create that kind of script in package.json. So once we are done with this kind of debasing thing, then we can think like, okay, now we have to commit into our GitHub. We will commit into the GitHub.
+
+questions
+7 minutes 24 seconds7:24
+questions 7 minutes 24 seconds
+Mm.
+questions 7 minutes 29 seconds
+Mm.
+questions 7 minutes 31 seconds
+Mhm, mhm.
+CH
+answer
+7 minutes 39 seconds7:39
+answer 7 minutes 39 seconds
+We have YAML file also, we can run because Playwright offers its own built-in feature, CICD built-in feature, but it's not that full-fledged, that what the Jenkins can offer. So it's, yeah, but yes, it will write.
+
+questions
+7 minutes 52 seconds7:52
+questions 7 minutes 52 seconds
+Okay, okay, fine, fine. So, next thing is, if I was, you know, cutting down means that I got my answer from you. Okay, so don't feel that I'm just, okay, so Himani, next thing is like, how do you use GitHub Copilot or other AI models with your framework?
+CH
+answer
+7 minutes 56 seconds7:56
+answer 7 minutes 56 seconds
+Yeah.
+answer 8 minutes 1 second
+Yeah, I got sent to me.
+
+questions
+8 minutes 11 seconds8:11
+questions 8 minutes 11 seconds
+And what is the?
+CH
+answer
+8 minutes 12 seconds8:12
+answer 8 minutes 12 seconds
+So we have the MCP servers are there so we can configure we MCPs we have to call the MCP server and also there the GitHub is there so.
+
+questions
+8 minutes 20 seconds8:20
+questions 8 minutes 20 seconds
+What is the purpose of MCB server?
+CH
+answer
+8 minutes 22 seconds8:22
+answer 8 minutes 22 seconds
+So MCP is the model context protocol is kind of the what we call it say protocol which we use to it is used to a bridge between our LLM models like whatever the LLM models co-pilot and all we can use between co-pilot and a.
+answer 8 minutes 42 seconds
+Application, so it's kind of the protocol. It's it serves as a that protocol. So, if you want to commit my code, if I want simple language, it commit my code to GitHub. So, just I will install, I will just use that MCP server, GitHub MCP server, and just I will give some simple command in Agent Copilot and Agent. First, we have to authenticate and log in, and this thing we have to do.
+
+questions
+8 minutes 50 seconds8:50
+questions 8 minutes 50 seconds
+Mm.
+questions 8 minutes 52 seconds
+MMM.
+CH
+answer
+9 minutes 3 seconds9:03
+answer 9 minutes 3 seconds
+I will just, we have to use our GitHub and I will just ask that commit my code to this. And there are several MCP server, MCP servers are available on the internet. We have to choose it, like for working with Excel or Playwright. We have there are several MCP servers.
+
+questions
+9 minutes 4 seconds9:04
+questions 9 minutes 4 seconds
+Mm.
+questions 9 minutes 18 seconds
+Okay, maybe, yeah, because through MCP server, there is a chances that, you know, it will be connected to different external system, which is, which can be not trusted or non-trusted, right?
+CH
+answer
+9 minutes 27 seconds9:27
+answer 9 minutes 27 seconds
+Mm.
+answer 9 minutes 31 seconds
+Mhm.
+
+questions
+9 minutes 32 seconds9:32
+questions 9 minutes 32 seconds
+So, assume that, you know, that maybe in the client network, the MCP servers are blocked.
+CH
+answer
+9 minutes 38 seconds9:38
+answer 9 minutes 38 seconds
+He he he he.
+
+questions
+9 minutes 39 seconds9:39
+questions 9 minutes 39 seconds
+Okay, but you have access to GitHub Copilot.
+CH
+answer
+9 minutes 41 seconds9:41
+answer 9 minutes 41 seconds
+He he he.
+
+questions
+9 minutes 42 seconds9:42
+questions 9 minutes 42 seconds
+Hey, models, so...
+CH
+answer
+9 minutes 43 seconds9:43
+answer 9 minutes 43 seconds
+Yes.
+
+questions
+9 minutes 45 seconds9:45
+questions 9 minutes 45 seconds
+So how do you work on this environment?
+CH
+answer
+9 minutes 46 seconds9:46
+answer 9 minutes 46 seconds
+Mm.
+answer 9 minutes 47 seconds
+Yeah, so we can create our own agent, we can give our skills and all, like we can give the strategy, what kind of in the strategy we can skills, we have to create a skill first, then we will command it like, okay, just go through it, we will give all the required information, what is our URL.
+answer 10 minutes 7 seconds
+what is our test cases and all. So using that we can create our agent and it will be helpful for us.
+
+questions
+10 minutes 13 seconds10:13
+questions 10 minutes 13 seconds
+The.
+questions 10 minutes 16 seconds
+Okay, so in the framework, if we need any additional components, for example, customized reports required, okay, not existing, you know, that playwright report, customized reports is needed, or I may need a few additional features like...
+CH
+answer
+10 minutes 25 seconds10:25
+answer 10 minutes 25 seconds
+Mm.
+answer 10 minutes 27 seconds
+P.
+answer 10 minutes 28 seconds
+P.
+
+questions
+10 minutes 37 seconds10:37
+questions 10 minutes 37 seconds
+recording the test cases or generating the test scripts automatically. So is it possible?
+CH
+answer
+10 minutes 44 seconds10:44
+answer 10 minutes 44 seconds
+Yes, so for external report.
+
+questions
+10 minutes 45 seconds10:45
+questions 10 minutes 45 seconds
+Oh, how? Okay, just tell me that. Sorry to interrupt. Himani, just tell me the exact step. How do you utilize this AI and your playwright scripts and your application to generate the test cases, test scripts automatically?
+CH
+answer
+11 minutes 5 seconds11:05
+answer 11 minutes 5 seconds
+test script automatically, there is a one feature Playwright provides are known as the code Zen. So if it code Zen, we just give the URL, we just do our steps and it will record for us using that code. Then we can save it, our test cases. And your next question was regarding the reporting, external reporting. So yes, we, it has provide, we can.
+
+questions
+11 minutes 6 seconds11:06
+questions 11 minutes 6 seconds
+Mm.
+questions 11 minutes 12 seconds
+Mm.
+questions 11 minutes 20 seconds
+Okay. Okay.
+CH
+answer
+11 minutes 29 seconds11:29
+answer 11 minutes 29 seconds
+use the LO reporting, we have to install it dependency and when we can use it LO reporting if we want to use it in Jenkins also, then we have to give some plugins and all if we want that report in Jenkins. So we have to provide that plugin. And your next question was recording. So we playwright has very good feature, playwright.config.js. We have this config. So there we can give all the options.
+answer 11 minutes 53 seconds
+Like if the recording we want to record it, where we want to screenshot, it's an on, off, retry, first retry on the failure. So these kind of options are available. We can record our test as well. We can, like video recording, we can provide. Anything I missed?
+
+questions
+12 minutes 9 seconds12:09
+questions 12 minutes 9 seconds
+No, that's fine. So can you share your screen?
+questions 12 minutes 14 seconds
+Let me open, let me ask you some questions.
+CH
+answer
+12 minutes 15 seconds12:15
+answer 12 minutes 15 seconds
+The.
+
+questions
+12 minutes 21 seconds12:21
+questions 12 minutes 21 seconds
+Have you have you managed any team members in automation?
+answer
+12 minutes 25 seconds12:25
+answer 12 minutes 25 seconds
+I like not here, but yes, like in my previous project I have done. Here I am people manager, so I'm working with them as well. And I do have experience leading team of three to four team members, but here my mostly contribution has been as an individual contributor.
+answer 12 minutes 47 seconds
+But in my previous organization, I have experience.
+
+questions
+12 minutes 49 seconds12:49
+questions 12 minutes 49 seconds
+Okay, so how do you estimate your automation work?
+CH
+answer
+12 minutes 56 seconds12:56
+answer 12 minutes 56 seconds
+In the story points, if we are working in agile, then in story points we estimate it. We will see our efforts, like if we can, if we have to create a completely new util, new function, then it will take a bit longer time. But if we have everything in place, we have methods in place, we just have to call those methods.
+answer 13 minutes 15 seconds
+Then we can give a time accordingly, like just we have to arrange the methods and all.
+
+questions
+13 minutes 19 seconds13:19
+questions 13 minutes 19 seconds
+So whatever the whatever that utils are new features that are supposed to be built, how it is different, like, you know, taking longer time and liking shorter time is already built in. Just assume that there is not there and this is there. So you are telling it's going to be a big difference between your estimation, right? But you have.
+CH
+answer
+13 minutes 24 seconds13:24
+answer 13 minutes 24 seconds
+Mm.
+answer 13 minutes 32 seconds
+But.
+answer 13 minutes 37 seconds
+Mm.
+
+questions
+13 minutes 38 seconds13:38
+questions 13 minutes 38 seconds
+In case if you have access to GitHub Copilot, okay, still do you think that the time difference is going to be same? I mean, going to be different?
+
+answer
+13 minutes 41 seconds13:41
+answer 13 minutes 41 seconds
+MMM.
+answer 13 minutes 45 seconds
+Yeah.
+answer 13 minutes 49 seconds
+Yeah, well, not that much, but yes, it would be because manually we have to review it. We have to test it again and again. So it's not like Copilot will give us the concrete, like very good result in one go. So we have to do it. Yeah, so we have to review it.
+
+questions
+13 minutes 51 seconds13:51
+questions 13 minutes 51 seconds
+Mm.
+questions 13 minutes 55 seconds
+Mm.
+questions 14 minutes 2 seconds
+That's not how, how, how, how can how can you define it compared to the traditional approach and the current approach? Like, so it just assume, let let let me take you this example, like, for example, I log into just take one, you have one framework, just assume that you have one framework.
+CH
+answer
+14 minutes 13 seconds14:13
+answer 14 minutes 13 seconds
+No, P.
+
+questions
+14 minutes 24 seconds14:24
+questions 14 minutes 24 seconds
+but you have to test maybe Google page. Okay. So in Google page, maximum you can go for search or we can navigate to different pages, right? So these are some four or five functionalities that you might need to test.
+CH
+answer
+14 minutes 24 seconds14:24
+answer 14 minutes 24 seconds
+Mm.
+answer 14 minutes 29 seconds
+OK.
+answer 14 minutes 38 seconds
+Mm.
+answer 14 minutes 41 seconds
+Mm.
+
+questions
+14 minutes 42 seconds14:42
+questions 14 minutes 42 seconds
+Okay, so what would be your estimation? I mean, how do you estimate these things like?
+CH
+answer
+14 minutes 43 seconds14:43
+answer 14 minutes 43 seconds
+Mm.
+answer 14 minutes 49 seconds
+Like if we are going to navigate, if we are, there is a very, it's like if the flow is there. Okay, we have to navigate to different, different pages. So first we have to see if the page is, we have to, if we are following the page object model, we have to see if page is already there. If not, then we will give some more time because we have to create a page.
+answer 15 minutes 10 seconds
+So, we will estimate it.
+
+questions
+15 minutes 11 seconds15:11
+questions 15 minutes 11 seconds
+So, how do you know how do you create the page?
+CH
+answer
+15 minutes 15 seconds15:15
+answer 15 minutes 15 seconds
+We create a page object like the here I have created one page object model where we give all the the here I have created this kind of page. Yeah, this page login page. Yeah, this kind of page.
+
+questions
+15 minutes 18 seconds15:18
+questions 15 minutes 18 seconds
+Hmm.
+questions 15 minutes 22 seconds
+Okay, maybe let's take this cart page. Okay, so if you want to create one Google page, yeah, if you want to instead of cart page login page, if you want to create Google page means, so how long it will take? Maybe for this login page, right? So how long it will take for you to create this?
+
+
+answer
+15 minutes 30 seconds15:30
+answer 15 minutes 30 seconds
+Uh-huh.
+answer 15 minutes 32 seconds
+Yeah.
+answer 15 minutes 36 seconds
+Mhm.
+answer 15 minutes 37 seconds
+Yeah, it won't like using, yeah, for logging page, it won't take much time, like, if it will take for me, like...
+
+questions
+15 minutes 43 seconds15:43
+questions 15 minutes 43 seconds
+No, it's not about, actually, yeah, maybe you didn't understand my question properly. So in the estimation perspective I'm telling you, I'm asking you because as a lead, okay, so right now, Himani, you have to answer me as a lead. Okay, so the question is not that easy what I'm looking for. So the thing is, like, maybe let's take this example.
+CH
+answer
+15 minutes 53 seconds15:53
+answer 15 minutes 53 seconds
+No.
+answer 15 minutes 55 seconds
+Ohh.
+answer 16 minutes
+Mhm.
+
+questions
+16 minutes 3 seconds16:03
+questions 16 minutes 3 seconds
+the login page. So if the login page means just, you know, it's a common page for every test cases, right?
+CH
+answer
+16 minutes 4 seconds16:04
+answer 16 minutes 4 seconds
+Mm.
+answer 16 minutes 12 seconds
+Yeah, Gharat.
+
+questions
+16 minutes 12 seconds16:12
+questions 16 minutes 12 seconds
+then your effort will be only once for your entire project timeline. Okay, so similarly, similarly for framework, in case if you are estimating something, there is some work will be reusable, only few things that need to be developed. And those things also recent days, you know.
+CH
+answer
+16 minutes 15 seconds16:15
+answer 16 minutes 15 seconds
+Huh, huh, OK, OK, reusability, OK, OK, you are looking for the reusability purpose, OK, OK.
+answer 16 minutes 24 seconds
+Hey, he.
+answer 16 minutes 26 seconds
+Oh.
+answer 16 minutes 30 seconds
+Mhm.
+
+questions
+16 minutes 33 seconds16:33
+questions 16 minutes 33 seconds
+As per my understanding, okay, yeah, with the AI model, simply, even if you can copy paste your DOM model, you get all the methods, reusable methods, everything will get it. So simply you have to spend time on dry run. If dry run failed, then you have to come and fix it. So this is the answer, actually. Okay.
+CH
+answer
+16 minutes 33 seconds16:33
+answer 16 minutes 33 seconds
+A agent.
+answer 16 minutes 35 seconds
+Mm.
+answer 16 minutes 40 seconds
+Yeah, I got it.
+answer 16 minutes 44 seconds
+He he he.
+answer 16 minutes 47 seconds
+He he he he.
+answer 16 minutes 50 seconds
+Okay, yeah, I got it. I got it. I got it. Yeah, I
+
+questions
+16 minutes 51 seconds16:51
+questions 16 minutes 51 seconds
+Okay, so yeah, so will you be able to handle your work in this way, in this approach?
+CH
+answer
+16 minutes 59 seconds16:59
+answer 16 minutes 59 seconds
+You.
+answer 17 minutes
+Yes, I think it.
+
+questions
+17 minutes 1 second17:01
+questions 17 minutes 1 second
+For example, even though if there is no pages, there is no reasonable methods.
+CH
+answer
+17 minutes 5 seconds17:05
+answer 17 minutes 5 seconds
+Hmm.
+
+questions
+17 minutes 6 seconds17:06
+questions 17 minutes 6 seconds
+But still it will be the same effort like you are, you know, creating or developing your script because you have everything in place. There is no need to, are you getting my point?
+CH
+answer
+17 minutes 13 seconds17:13
+answer 17 minutes 13 seconds
+Mhm.
+answer 17 minutes 17 seconds
+Yeah, I'm getting like, but that the person, yeah, that person has the knowledge. If he has the knowledge, like what the things are doing, how the things are following, what is like, then it's just simply, and if you are very good in prompt, giving the prompt to AI, then yeah, it should be like much lesser time.
+
+questions
+17 minutes 18 seconds17:18
+questions 17 minutes 18 seconds
+There is known.
+questions 17 minutes 30 seconds
+Hmm.
+questions 17 minutes 32 seconds
+So, what about what about you? Will you be able to follow that approach?
+CH
+answer
+17 minutes 36 seconds17:36
+answer 17 minutes 36 seconds
+Yeah, I think so because I have worked on like a playwright is new for me. Yeah.
+
+questions
+17 minutes 40 seconds17:40
+questions 17 minutes 40 seconds
+Yeah, that's what we needed, okay? If you have the confidence, that's fine. So for anything, yes, for anything, everything that it has to be optimized.
+CH
+answer
+17 minutes 42 seconds17:42
+answer 17 minutes 42 seconds
+Yes.
+answer 17 minutes 44 seconds
+Yes, yes, yes, interviewer, interviewer, see if some, yeah, yeah, interviewer, see, AI, if someone understand the AI and someone understand the automation, so we can club together, it might take a few days to like few days, not even a week, but yeah, output.
+
+questions
+17 minutes 56 seconds17:56
+questions 17 minutes 56 seconds
+Mm.
+questions 17 minutes 58 seconds
+Okay.
+CH
+answer
+18 minutes 3 seconds18:03
+answer 18 minutes 3 seconds
+Will start coming.
+
+questions
+18 minutes 5 seconds18:05
+questions 18 minutes 5 seconds
+Okay, so you know about this return on investment, right, Rohit?
+CH
+answer
+18 minutes 10 seconds18:10
+answer 18 minutes 10 seconds
+Return on investment, yeah, yes, yes.
+
+questions
+18 minutes 13 seconds18:13
+questions 18 minutes 13 seconds
+No.
+questions 18 minutes 16 seconds
+Okay, so...
+CH
+answer
+18 minutes 16 seconds18:16
+answer 18 minutes 16 seconds
+I turn on.
+
+questions
+18 minutes 18 seconds18:18
+questions 18 minutes 18 seconds
+Alright, just go through that. What was that? OK, that is very, very, very important thing for automation person. OK, alright, and how about your hands-on with GitHub?
+
+answer
+18 minutes 27 seconds18:27
+answer 18 minutes 27 seconds
+Okay.
+answer 18 minutes 34 seconds
+Mm.
+answer 18 minutes 36 seconds
+GitHub, like, yeah, it's, yeah, I'm GitHub, like, we have to commit and all, yeah, that I can.
+
+questions
+18 minutes 44 seconds18:44
+questions 18 minutes 44 seconds
+I mean, okay, my point is like, you know, okay, so I think Himani as the lead, okay, just tell me, if you or your team member doesn't have GitHub, okay? So you just have only the framework, or you just started developing your framework from scratch.
+CH
+answer
+18 minutes 45 seconds18:45
+answer 18 minutes 45 seconds
+You write, writing.
+answer 18 minutes 52 seconds
+Mm.
+answer 18 minutes 58 seconds
+MMM.
+
+questions
+19 minutes 3 seconds19:03
+questions 19 minutes 3 seconds
+So, how do you, how do you, you know, push your changes, or how, how, what is your approach to use GitHub here?
+CH
+answer
+19 minutes 4 seconds19:04
+answer 19 minutes 4 seconds
+Mhm.
+answer 19 minutes 14 seconds
+So, okay, once we started working on in framework, someone has done their done with their script, so they have to commit it into their git, like they are the command, like we have to add instead, we have to add, we have to add, like we have to, if it's a fresh new project, then we have to clone it.
+
+questions
+19 minutes 24 seconds19:24
+questions 19 minutes 24 seconds
+And...
+questions 19 minutes 28 seconds
+OK, what is that command? What is the first step?
+CH
+answer
+19 minutes 37 seconds19:37
+answer 19 minutes 37 seconds
+If it is a clone, then we have to create a branch and all, then we have to do some scripting, we have to save it, and then we have to add it, then we have to commit it, and then we have to push it, and we have to raise a PR. Someone has to approve that PR, then we have to merge it. We have to resolve the conflict. The conflict that is resolved, then we...
+
+questions
+19 minutes 57 seconds19:57
+questions 19 minutes 57 seconds
+How do you resolve your conflict? How do you resolve your conflict?
+CH
+answer
+19 minutes 57 seconds19:57
+answer 19 minutes 57 seconds
+Okay, and proceed with them. So we can, when we just click on it in GitHub or desktop also or in this playwright also, we can just click it, we can show the differences there, like what are, what we have done and what is the conflict is there. So either we can accept the incoming changes or we can accept our changes so that we have to review it one by one, like what is the conflict is there. So we have to review.
+answer 20 minutes 22 seconds
+review it, we can accept or reject our incoming change. Like that, we have to review it.
+questions
+20 minutes 27 seconds20:27
+questions 20 minutes 27 seconds
+Okay, can you go to Google?
+questions 20 minutes 39 seconds
+Open new tab and open Google.
+CH
+answer
+20 minutes 40 seconds20:40
+answer 20 minutes 40 seconds
+If.
+answer 20 minutes 42 seconds
+Yeah, sure.
+
+questions
+20 minutes 51 seconds20:51
+questions 20 minutes 51 seconds
+Okay, so there's a nine dot under top right side, right?
+CH
+answer
+20 minutes 58 seconds20:58
+answer 20 minutes 58 seconds
+This one.
+
+questions
+21 minutes21:00
+questions 21 minutes
+Click.
+CH
+answer
+21 minutes21:00
+answer 21 minutes
+Okay.
+
+questions
+21 minutes 2 seconds21:02
+questions 21 minutes 2 seconds
+Baig.
+questions 21 minutes 4 seconds
+Come down, you see forms, come down.
+CH
+answer
+21 minutes 7 seconds21:07
+answer 21 minutes 7 seconds
+Mm.
+
+questions
+21 minutes 10 seconds21:10
+questions 21 minutes 10 seconds
+I'm done.
+questions 21 minutes 14 seconds
+Yeah, you are seeing forms, right?
+questions 21 minutes 16 seconds
+I'm done.
+questions 21 minutes 19 seconds
+Bumps, click, just click.
+
+answer
+21 minutes 20 seconds21:20
+answer 21 minutes 20 seconds
+This forms.
+answer 21 minutes 22 seconds
+Okay.
+
+questions
+21 minutes 26 seconds21:26
+questions 21 minutes 26 seconds
+OK, so.
+CH
+answer
+21 minutes 27 seconds21:27
+answer 21 minutes 27 seconds
+Mm.
+
+questions
+21 minutes 29 seconds21:29
+questions 21 minutes 29 seconds
+Okay, let's take this one by anyone. There's one drop-down, right?
+CH
+answer
+21 minutes 34 seconds21:34
+answer 21 minutes 34 seconds
+Mm.
+
+questions
+21 minutes 36 seconds21:36
+questions 21 minutes 36 seconds
+Can you select the drop-down below, below in the middle of the page?
+questions 21 minutes 40 seconds
+owned by anyone. Yeah, click on that.
+questions 21 minutes 45 seconds
+Okay, owned by me, right? Can you identify that XPath for this one by me? First, first make it in the first option.
+CH
+answer
+21 minutes 48 seconds21:48
+answer 21 minutes 48 seconds
+Yeah.
+answer 21 minutes 56 seconds
+Um, expert.
+
+questions
+22 minutes22:00
+questions 22 minutes
+No, no, first to keep it in the first option. Now already you selected, so keep it in the first. OK, so now...
+CH
+answer
+22 minutes 5 seconds22:05
+answer 22 minutes 5 seconds
+Acha, on by way. Okay, okay, okay.
+
+questions
+22 minutes 9 seconds22:09
+questions 22 minutes 9 seconds
+I want you to identify the export for the second value.
+questions 22 minutes 16 seconds
+Mm.
+CH
+answer
+22 minutes 29 seconds22:29
+answer 22 minutes 29 seconds
+Yes.
+
+questions
+23 minutes 33 seconds23:33
+questions 23 minutes 33 seconds
+So what is your approach to get that XPath for the second value?
+CH
+answer
+23 minutes 38 seconds23:38
+answer 23 minutes 38 seconds
+I'm just getting this. Yeah, I'm just trying to get this whatever the this field. Then we have the options and all from this. So I'm just trying to select that.
+
+questions
+23 minutes 38 seconds23:38
+questions 23 minutes 38 seconds
+What are you trying?
+questions 23 minutes 50 seconds
+But this is not the regular drop-down, right?
+CH
+answer
+23 minutes 52 seconds23:52
+answer 23 minutes 52 seconds
+Yeah.
+answer 23 minutes 54 seconds
+That okay, the time.
+
+questions
+24 minutes 5 seconds24:05
+questions 24 minutes 5 seconds
+What is the Xbox for this visible value now, owned by anyone?
+CH
+answer
+24 minutes 12 seconds24:12
+answer 24 minutes 12 seconds
+Export for.
+
+questions
+24 minutes 14 seconds24:14
+questions 24 minutes 14 seconds
+Mm.
+questions 24 minutes 18 seconds
+The expert identifying expert is a very basic thing, right?
+CH
+answer
+24 minutes 20 seconds24:20
+answer 24 minutes 20 seconds
+Yeah.
+
+questions
+24 minutes 23 seconds24:23
+questions 24 minutes 23 seconds
+So, what is the challenges for you here?
+CH
+answer
+24 minutes 23 seconds24:23
+answer 24 minutes 23 seconds
+Yes.
+answer 24 minutes 44 seconds
+I hate.
+answer 24 minutes 47 seconds
+Something.
+
+
+questions
+24 minutes 50 seconds24:50
+questions 24 minutes 50 seconds
+Okay, so Himani, yeah, this is fine. I'll just ask one last question. In Jenkins, have you configured pipeline or jobs in Jenkins?
+CH
+answer
+24 minutes 52 seconds24:52
+answer 24 minutes 52 seconds
+Do.
+answer 24 minutes 54 seconds
+Ohh.
+answer 25 minutes 1 second
+Yes, trial, yes, trial basis I have done that.
+
+questions
+25 minutes 5 seconds25:05
+questions 25 minutes 5 seconds
+So.
+CH
+answer
+25 minutes 6 seconds25:06
+answer 25 minutes 6 seconds
+Yes.
+
+questions
+25 minutes 7 seconds25:07
+questions 25 minutes 7 seconds
+So, you have hands-on on that?
+CH
+answer
+25 minutes 9 seconds25:09
+answer 25 minutes 9 seconds
+Yes, yes.
+
+questions
+25 minutes 10 seconds25:10
+questions 25 minutes 10 seconds
+So, if I ask you to run your scripts...
+CH
+answer
+25 minutes 13 seconds25:13
+answer 25 minutes 13 seconds
+Mhm.
+
+questions
+25 minutes 13 seconds25:13
+questions 25 minutes 13 seconds
+through Jenkins pipeline, but in different server. Okay, your script needs to be run in different server, but the pipeline needs to be created in Jenkins server. And do you know how to configure that server? I mean, the script, the script supposed to be running one server, right? The server needs to be configured. How do you do that? Do you know how to do that?
+CH
+answer
+25 minutes 15 seconds25:15
+answer 25 minutes 15 seconds
+Mhm.
+answer 25 minutes 24 seconds
+Mm.
+answer 25 minutes 36 seconds
+Dockers and all, you are asking about dockers?
+
+questions
+25 minutes 39 seconds25:39
+questions 25 minutes 39 seconds
+No, so my question is, like, you have your script, OK, in Git.
+CH
+answer
+25 minutes 44 seconds25:44
+answer 25 minutes 44 seconds
+Ohh.
+
+questions
+25 minutes 44 seconds25:44
+questions 25 minutes 44 seconds
+And you are creating a pipeline to check, check out your scripts, OK? I mean, script from Git, whatever that, you know, however you are doing, that's fine, and then, but I when you build your script right in Jenkins, where usually where it will run the script?
+CH
+answer
+25 minutes 47 seconds25:47
+answer 25 minutes 47 seconds
+Okay.
+answer 25 minutes 57 seconds
+Mhm.
+answer 26 minutes 5 seconds
+If we create our, then we give the get and all, and we have to give a, like, we have to install, we have to create an environment for that, so in we have to create the.
+
+questions
+26 minutes 9 seconds26:09
+questions 26 minutes 9 seconds
+Hmm.
+questions 26 minutes 18 seconds
+Where, where, where, where you will create an environment?
+CH
+answer
+26 minutes 22 seconds26:22
+answer 26 minutes 22 seconds
+In Jenkins, like we have to give that NPM install and all in the bat file we have to do it. We can.
+
+
+questions
+26 minutes 28 seconds26:28
+questions 26 minutes 28 seconds
+So which means you are telling the script will be running in the Jenkins server, right, where the Jenkins installed. But I don't want because Jenkins may be used for multiple teams. Okay, so if your script, everybody started to run their script in the Jenkins server, then Jenkins server will be overloaded.
+CH
+answer
+26 minutes 32 seconds26:32
+answer 26 minutes 32 seconds
+Ha, Jen, yeah.
+answer 26 minutes 34 seconds
+Mm.
+answer 26 minutes 39 seconds
+Mhm.
+answer 26 minutes 46 seconds
+Mhm, mhm.
+
+questions
+26 minutes 47 seconds26:47
+questions 26 minutes 47 seconds
+Okay, so in that case you might need to run the script in different server or different machine. For example, you have this pipeline in Jenkins server, but when you click on build with parameters or build, your script needs to be run it in different third party machine, like different Linux server or different Windows server.
+CH
+answer
+27 minutes27:00
+answer 27 minutes
+And.
+
+questions
+27 minutes 7 seconds27:07
+questions 27 minutes 7 seconds
+Have you done that as part of your experience?
+CH
+answer
+27 minutes 8 seconds27:08
+answer 27 minutes 8 seconds
+Lick it.
+answer 27 minutes 13 seconds
+Oh, yeah, yeah, I am not very sure on it, but yes, I have, yeah.
+
+questions
+27 minutes 13 seconds27:13
+questions 27 minutes 13 seconds
+Maybe no, yeah, right.
+questions 27 minutes 17 seconds
+That's fine, just OK, so.
+CH
+answer
+27 minutes 20 seconds27:20
+answer 27 minutes 20 seconds
+Yeah, YAML and all, yeah, I'm just learning, still learning that YAML file and all, but yeah, running on different server, I never encountered this thing, will work on it.
+
+questions
+27 minutes 23 seconds27:23
+questions 27 minutes 23 seconds
+Okay.
+questions 27 minutes 30 seconds
+Okay, so Himani, I think I'm done with my questions for you. Do you have any questions for me?
+CH
+answer
+27 minutes 34 seconds27:34
+answer 27 minutes 34 seconds
+Mhm.
+answer 27 minutes 37 seconds
+Oh.
+answer 27 minutes 38 seconds
+Mm.
+answer 27 minutes 41 seconds
+No, Sentinter
+questions
+27 minutes 43 seconds27:43
+questions 27 minutes 43 seconds
+All right. Thank you, Himani. Have a good day. Bye.
+CH
+answer
+27 minutes 45 seconds27:45
+answer 27 minutes 45 seconds
+Thank you, Vintha. Bye bye.
+
+
+
+
+
+
+
+
+
+
+
+
+
+answer
+25 minutes 47 seconds25:47
+answer 25 minutes 47 seconds
+Okay.
+answer 25 minutes 57 seconds
+Mhm.
+answer 26 minutes 5 seconds
+If we create our, then we give the get and all, and we have to give a, like, we have to install, we have to create an environment for that, so in we have to create the.
+
+questions
+26 minutes 9 seconds26:09
+questions 26 minutes 9 seconds
+Hmm.
+questions 26 minutes 18 seconds
+Where, where, where, where you will create an environment?
+CH
+answer
+26 minutes 22 seconds26:22
+answer 26 minutes 22 seconds
+In Jenkins, like we have to give that NPM install and all in the bat file we have to do it. We can.
+
+questions
+26 minutes 28 seconds26:28
+questions 26 minutes 28 seconds
+So which means you are telling the script will be running in the Jenkins server, right, where the Jenkins installed. But I don't want because Jenkins may be used for multiple teams. Okay, so if your script, everybody started to run their script in the Jenkins server, then Jenkins server will be overloaded.
+CH
+answer
+26 minutes 32 seconds26:32
+answer 26 minutes 32 seconds
+Ha, Jen, yeah.
+answer 26 minutes 34 seconds
+Mm.
+answer 26 minutes 39 seconds
+Mhm.
+answer 26 minutes 46 seconds
+Mhm, mhm.
+
+questions
+26 minutes 47 seconds26:47
+questions 26 minutes 47 seconds
+Okay, so in that case you might need to run the script in different server or different machine. For example, you have this pipeline in Jenkins server, but when you click on build with parameters or build, your script needs to be run it in different third party machine, like different Linux server or different Windows server.
+CH
+answer
+27 minutes27:00
+answer 27 minutes
+And.
+
+questions
+27 minutes 7 seconds27:07
+questions 27 minutes 7 seconds
+Have you done that as part of your experience?
+CH
+answer
+27 minutes 8 seconds27:08
+answer 27 minutes 8 seconds
+Lick it.
+answer 27 minutes 13 seconds
+Oh, yeah, yeah, I am not very sure on it, but yes, I have, yeah.
+
+questions
+27 minutes 13 seconds27:13
+questions 27 minutes 13 seconds
+Maybe no, yeah, right.
+questions 27 minutes 17 seconds
+That's fine, just OK, so.
+CH
+answer
+27 minutes 20 seconds27:20
+answer 27 minutes 20 seconds
+Yeah, YAML and all, yeah, I'm just learning, still learning that YAML file and all, but yeah, running on different server, I never encountered this thing, will work on it.
+
+questions
+27 minutes 23 seconds27:23
+questions 27 minutes 23 seconds
+Okay.
+questions 27 minutes 30 seconds
+Okay, so Himani, I think I'm done with my questions for you. Do you have any questions for me?
+CH
+answer
+27 minutes 34 seconds27:34
+answer 27 minutes 34 seconds
+Mhm.
+answer 27 minutes 37 seconds
+Oh.
+answer 27 minutes 38 seconds
+Mm.
+answer 27 minutes 41 seconds
+No, interviewer.
+
+questions
+27 minutes 43 seconds27:43
+questions 27 minutes 43 seconds
+All right. Thank you, Himani. Have a good day. Bye.
+CH
+answer
+27 minutes 45 seconds27:45
+answer 27 minutes 45 seconds
+Thank you, Vintha. Bye bye.
+
+questions stopped transcription
