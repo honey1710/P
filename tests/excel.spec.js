@@ -5,7 +5,7 @@ import { isGeneratorFunction, isStringObject } from 'util/types';
 import hooks from './hooks.spec.js';
 
 // Read Excel file and convert to JSON
-const excelFilePath = 'TestData\\loginExcel.xlsx';
+const excelFilePath = 'TestData/loginExcel.xlsx';
 const fileBuffer = fs.readFileSync(excelFilePath);
 const workbook = XLSX.read(fileBuffer, { type: 'buffer' });
 const sheetName = workbook.SheetNames[1];
