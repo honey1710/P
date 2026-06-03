@@ -2,7 +2,7 @@ import {test , expect} from '@playwright/test';
 import * as XLSX from 'xlsx';
 import  fs from 'fs';
 import { isGeneratorFunction, isStringObject } from 'util/types';
-import hooks from './hooks.spec.js';
+
 
 // Read Excel file and convert to JSON
 const excelFilePath = 'TestData/loginExcel.xlsx';
