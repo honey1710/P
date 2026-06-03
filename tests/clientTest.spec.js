@@ -1,7 +1,7 @@
 // @ts-check
 import { test, expect } from '@playwright/test';
 
-test.only('Client App get all elemnts text', async ({ page }) => {
+test('Client App get all elemnts text', async ({ page }) => {
   await page.goto('https://rahulshettyacademy.com/Client');
 
   // Expect a title "to contain" a substring.
