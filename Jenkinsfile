@@ -21,10 +21,14 @@ pipeline {
         stage('Setup Node') {
             steps {
                 script {
-                    // Assumes NodeJS plugin is configured with name 'NodeJS-18'
                     nodejs(nodeJSInstallationName: 'NodeJS-18') {
-                        sh 'node -v'
-                        sh 'npm -v'
+                        if (isUnix()) {
+                            sh 'node -v'
+                            sh 'npm -v'
+                        } else {
+                            bat 'node -v'
+                            bat 'npm -v'
+                        }
                     }
                 }
             }
@@ -32,8 +36,14 @@ pipeline {
 
         stage('Install Dependencies') {
             steps {
-                nodejs(nodeJSInstallationName: 'NodeJS-18') {
-                    sh 'npm ci'
+                script {
+                    nodejs(nodeJSInstallationName: 'NodeJS-18') {
+                        if (isUnix()) {
+                            sh 'npm ci'
+                        } else {
+                            bat 'npm ci'
+                        }
+                    }
                 }
             }
         }
@@ -41,26 +51,45 @@ pipeline {
         stage('Cache Playwright Browsers') {
             steps {
                 script {
-                    sh '''
-                        mkdir -p .cache/ms-playwright
-                        echo "Using Playwright cache at $PLAYWRIGHT_BROWSERS_PATH"
-                    '''
+                    if (isUnix()) {
+                        sh '''
+                            mkdir -p .cache/ms-playwright
+                            echo "Using Playwright cache at $PLAYWRIGHT_BROWSERS_PATH"
+                        '''
+                    } else {
+                        bat '''
+                            if not exist .cache\\ms-playwright mkdir .cache\\ms-playwright
+                            echo Using Playwright cache at %PLAYWRIGHT_BROWSERS_PATH%
+                        '''
+                    }
                 }
             }
         }
 
         stage('Install Playwright Browsers') {
             steps {
-                nodejs(nodeJSInstallationName: 'NodeJS-18') {
-                    sh 'npx playwright install --with-deps'
+                script {
+                    nodejs(nodeJSInstallationName: 'NodeJS-18') {
+                        if (isUnix()) {
+                            sh 'npx playwright install --with-deps'
+                        } else {
+                            bat 'npx playwright install'
+                        }
+                    }
                 }
             }
         }
 
         stage('Run Tests') {
             steps {
-                nodejs(nodeJSInstallationName: 'NodeJS-18') {
-                    sh 'npx playwright test'
+                script {
+                    nodejs(nodeJSInstallationName: 'NodeJS-18') {
+                        if (isUnix()) {
+                            sh 'npx playwright test'
+                        } else {
+                            bat 'npx playwright test'
+                        }
+                    }
                 }
             }
         }
@@ -72,3 +101,4 @@ pipeline {
         }
     }
 }
+``
